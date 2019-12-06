@@ -48,4 +48,4 @@ Federal Hall- 9.4 miles
 Empire State Building- 6.2 miles
 
 # Map 
-<script src="https://embed.github.com/view/geojson/COrobinsky/SugarHill-Map/master/map(1).geojson" ></script>
+<script src="https://embed.github.com/view/geojson/COrobinsky/master/SugarHill-Map/map(1).geojson" ></script>
